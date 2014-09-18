@@ -1,6 +1,6 @@
 git _____		Fetching downloads a branch from another repository, along with
 				all of its associated commits and files. But, it doesn't try to
-				integrate anything into your local repository. This gives you a
+				integrate anything into your local repository. This gives you aa
 				chance to inspect changes before merging them with your project.
 				
 git _____		Pulling is the automated version of `git _____`. It downloads a
