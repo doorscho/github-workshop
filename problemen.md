@@ -1,0 +1,1 @@
+the problemen die ik tegen ben gekomen is dat jij echt ontzettend facking snel gaat :D maar om eerlijk te zijn houd je zo wel echt het level goed hoog. en iedereen houdt het blijkbaar bij dus fuck yeah matey mate, weer een goede presentatie
