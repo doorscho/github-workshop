@@ -1,0 +1,1 @@
+ de voordelen van een VCS zijn dat je goed samen kan werken, en terug kan kijken naar waar het fout is gegaan bij vorige versies, de nadelen zijn dat het een lastige leercurve heeft om ermee te beginnen
